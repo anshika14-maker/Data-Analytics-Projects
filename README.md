@@ -39,6 +39,12 @@ The analysis focuses on exploratory data analysis, statistical analysis, confide
 - Purchase behavior was compared between married and unmarried customers.
 - 99% confidence intervals were calculated to estimate population mean purchase amounts.
 - Statistical analysis helps identify differences in customer purchasing behavior.
+- 
+## 🏁 Conclusion
+
+This analysis demonstrates how Python and statistical methods can be used to understand customer purchase behavior. The analysis of gender and marital-status groups shows differences in purchase patterns, while confidence interval analysis provides an estimate of the population mean purchase amount.
+
+The project helped apply practical concepts such as exploratory data analysis, sampling, confidence intervals, and statistical interpretation to a real-world retail dataset.
 
 ## 📓 Notebook
 
